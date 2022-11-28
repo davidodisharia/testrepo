@@ -1,3 +1,3 @@
 # testrepo
 
-It's a markdown file of this repository!
+It's a markdown file in this repository!
